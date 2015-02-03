@@ -11,13 +11,13 @@ from Application.pvoutput   import PVoutput
 #*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*
 
 #Replace with the IP-adres of the Steca inverter 
-steca_ip            =   "192.168.1.5"
+steca_ip            =   "192.168.x.x"
 
 #Replace with the API-key from PVoutput.org
-pvoutput_api_key    =   "50e42a8b5ca7cb5c8bfa4b82d13b01811e26d988"
+pvoutput_api_key    =   "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 #Replace with the 'System Id' of your Steca inverter from PVoutput.org
-pvoutput_sid        =   "34703"
+pvoutput_sid        =   "xxxxx"
 
 #*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*#*
 
